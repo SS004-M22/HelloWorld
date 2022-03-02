@@ -3,9 +3,9 @@
 using namespace std;
 
 int main() {
-  cout << "HELLO WORLD, 🌏🌏🌏!!!"
+  cout << "HELLO WORLD, 🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏!!!"
        << "\n";
-  cout << "HALLO WORLD, 🌏🌏🌏???"
+  cout << "HALLO WORLD, 🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏🌏???"
        << "\n";
   
   return 0;
