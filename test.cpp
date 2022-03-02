@@ -7,5 +7,5 @@ int main() {
        << "\n";
   cout << "Hallo world, 🌏🌏🌏???"
        << "\n";
-  return 1;
+  return 2;
 }
